@@ -12,7 +12,7 @@ also request desktop notifications when this command runs.
 
 ## Installing this command
 
-Just `brew tap domt4/autoupdate`.
+Just `brew tap mlong168/autoupdate`.
 
 ## Usage
 
