@@ -12,7 +12,12 @@ also request desktop notifications when this command runs.
 
 ## Installing this command
 
-Just `brew tap mlong168/autoupdate`.
+Uses buo/homebrew-cask-upgrade to update all Casks
+
+Just:
+
+- `brew tap buo/homebrew-cask-upgrade`
+- `brew tap mlong168/autoupdate`
 
 ## Usage
 
